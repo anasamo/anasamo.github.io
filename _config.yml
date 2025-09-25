@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jinsheng
+first_name: Anas
 middle_name: 
-last_name: Ba
+last_name: Mohamed
 email: jinsheng.ba@inf.ethz.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A Researcher in Security, Fuzzing, Vulnerability.
@@ -337,4 +337,5 @@ popper:
   integrity: "sha256-l/1pMF/+J4TThfgARS6KwWrk/egwuVvhRzfLAMQ6Ds4="
 medium_zoom:
   version: "1.0.6"
+
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="

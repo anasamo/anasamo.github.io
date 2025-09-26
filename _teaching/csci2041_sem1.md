@@ -6,4 +6,4 @@ place: UMN
 inline: true
 ---
 
-Teaching Assistant for CSCI 2041 Advanced Programming Principles
+Teaching Assistant for CSCI 2041: Advanced Programming Principles

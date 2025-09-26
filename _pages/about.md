@@ -19,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Masters Student in Computer Science at the University of Minnesota, advised by [Ali Anwar](httpsL//chalianwar.github.io). Before my Master's, I also completed my B.S in Computer Science at the University of Minnesota. 
+I am an M.S Student in Computer Science at the University of Minnesota, advised by [Ali Anwar](httpsL//chalianwar.github.io). Before my Master's, I also completed my B.S in Computer Science at the University of Minnesota in December 2024. 
 
 My research interests are in optimizing systems for ML, with a focus on efficiency and scalability. I enjoy working on problems where algorithmic techniques meet system-level challenges, especially involving trade-offs and finding optimal solutions. My current work focuses on system-level optimizations for multi-agent coordination.

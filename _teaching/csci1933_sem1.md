@@ -6,4 +6,4 @@ place: UMN
 inline: true
 ---
 
-Teaching Assistant for CSCI 1933 Introduction to Data Structures and Algorithms
+Teaching Assistant for CSCI 1933: Introduction to Data Structures and Algorithms

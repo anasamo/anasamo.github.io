@@ -7,8 +7,7 @@ first_name: Anas
 middle_name: 
 last_name: Mohamed
 email: moha1325@umn.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A Researcher in Security, Fuzzing, Vulnerability.
+description: > #
 footer_text: >
 
 keywords:   # add your own keywords or leave empty
@@ -339,5 +338,6 @@ medium_zoom:
   version: "1.0.6"
 
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
 
 

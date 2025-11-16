@@ -19,6 +19,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am an M.S Student in Computer Science at the University of Minnesota, advised by [Ali Anwar](httpsL//chalianwar.github.io) in the Distributed Machine Learning and Systems Lab. Before my Master's, I also completed my B.S in Computer Science at the University of Minnesota in December 2024. 
-
-My research interests are in optimizing systems for ML, with a focus on efficiency and scalability. I enjoy working on problems where algorithmic techniques meet system-level challenges, especially involving trade-offs and finding optimal solutions.
+I am an M.S Student in Computer Science at the University of Minnesota, advised by [Ali Anwar](httpsL//chalianwar.github.io) in the Distributed Machine Learning and Systems Lab. Before my Master's, I also completed my B.S in Computer Science at the University of Minnesota in December 2024. My research interests are in designing and optimizing scalable systems for machine learning.

@@ -16,7 +16,9 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am an M.S Student in Computer Science at the University of Minnesota, advised by [Ali Anwar](httpsL//chalianwar.github.io) in the Distributed Machine Learning and Systems Lab. Before my Master's, I also completed my B.S in Computer Science at the University of Minnesota in December 2024. My research interests are in designing and optimizing scalable systems for machine learning.
+
+[Email](mailto:moha1325@umn.edu) / [LinkedIn](https://www.linkedin.com/in/anasmohamed-) / [Google Scholar](https://scholar.google.com/citations?user=qc8ADdAAAAAJ) / [CV]({{ site.url }}/assets/pdf/Anas_cv.pdf)

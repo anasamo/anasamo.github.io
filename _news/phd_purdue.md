@@ -4,4 +4,4 @@ date: 2026-03-15
 inline: true
 ---
 
-I'm happy to say I'm entering my PhD at Purdue University in Computer Science starting in Fall 2026!
+I'm happy to say I'm entering my PhD at Purdue University in Computer Science in Fall 2026!

@@ -3,10 +3,11 @@ layout: cv
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
-cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+nav_order: 3
+cv_pdf: Anas_cv.pdf
+description:
 ---
+
+<div style="width:100%;height:850px;margin-top:30px;">
+  <iframe src="{{ '/assets/pdf/Anas_cv.pdf' | relative_url }}" style="width:100%;height:100%;border:0;"></iframe>
+</div>
